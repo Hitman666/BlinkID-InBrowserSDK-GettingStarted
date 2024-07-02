@@ -7,6 +7,8 @@ Test this repo out in under a minute on your machine (if you have Node and Git i
 - run `cd BlinkID-InBrowserSDK-GettingStarted && npm install && npm run dev`
 - open [http://localhost:5173/](http://localhost:5173/)
 
+If you want to recreate this project from scratch, here's the step by step guide...
+
 ## TL;DR
 In this step-by-step tutorial, we'll show you how to start scanning and extracting the data from a driver's license using Microblink's BlinkID SDK.
 
