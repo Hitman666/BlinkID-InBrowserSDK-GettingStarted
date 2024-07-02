@@ -5,7 +5,7 @@ Test this repo out in under a minute on your machine (if you have Node and Git i
 - in your terminal, clone [this](https://github.com/Hitman666/BlinkID-InBrowserSDK-GettingStarted) repo with `git clone https://github.com/Hitman666/BlinkID-InBrowserSDK-GettingStarted.git`
 - get the license at [Microblink DevHub](https://developer.microblink.com/) and add it to the `LICENSE` variable in the `main.js` file
 - run `cd BlinkID-InBrowserSDK-GettingStarted && npm install && npm run dev`
-- open [http://localhost:5173/](http://localhost:5173/)
+- open [http://localhost:5173/](http://localhost:5173/) and point your ID towards the camera
 
 If you want to recreate this project from scratch, here's the step by step guide...
 
