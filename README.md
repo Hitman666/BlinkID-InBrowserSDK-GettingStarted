@@ -7,7 +7,7 @@ Test this repo out in under a minute on your machine (if you have Node and Git i
 - run `cd BlinkID-InBrowserSDK-GettingStarted && npm install && npm run dev`
 - open [http://localhost:5173/](http://localhost:5173/) and point your ID towards the camera
 
-If you prefer a short video for running this project, feel free to check it out [here](https://www.youtube.com/watch?v=c0ZA8af9oBc).
+If you prefer a short video for running this project, feel free to check it out [here](https://youtu.be/ZaJBBllmRDM).
 
 If you want to recreate this project from scratch, here's the step by step guide...
 
